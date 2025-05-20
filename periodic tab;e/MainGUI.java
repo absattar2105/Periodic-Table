@@ -1,9 +1,13 @@
 package com.mycompany.main;
 
 import javax.swing.*;
+
 import java.awt.*;
+
 import java.awt.event.*;
+
 import java.util.List;
+
 
 public class MainGUI extends JFrame {
     private JTextField nameField, symbolField, numberField, weightField, propertiesField;
