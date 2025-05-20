@@ -6,7 +6,7 @@ import java.util.*;
 public class DatabaseHandler {
     private final String fileName = "elements.txt";
 
-    /**
+    /** 
      *
      * @param element
      */
