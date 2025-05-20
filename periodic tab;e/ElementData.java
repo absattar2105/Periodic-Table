@@ -1,5 +1,7 @@
-package com.mycompany.main;
+package com.mycompany.main; 
+
 public class ElementData { 
+    
     private String name;
     private String symbol;
     private int atomicNumber;
